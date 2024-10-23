@@ -47,8 +47,8 @@ td {
 .valor-liquido {
     white-space: nowrap; /* Impede a quebra de linha */
 }
-td:nth-child(5)
-    width: 50px; 
-    word-break: break-word; 
-            word-break: break-word; 
+td:nth-child(1) {
+    width: 50px;
+    word-break: break-word;
 }
+
