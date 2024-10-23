@@ -48,7 +48,7 @@ td {
     white-space: nowrap; /* Impede a quebra de linha */
 }
 td:nth-child(1) {
-    width: 50px;
+    width: 80px;
     word-break: break-word;
 }
 
